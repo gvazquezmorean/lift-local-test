@@ -1,4 +1,4 @@
 customTools = [
     ".lift/x.sh"
-
+    ]
 commentStyle = "normal"
