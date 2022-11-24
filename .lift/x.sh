@@ -5,6 +5,8 @@ set -e
 function tellApplicable() {
     printf "true\n" "1do par"
     printf "true\n" "2do par"
+    printf "true\n" "3do par"
+    printf "true\n" "4do par"
 }
 
 function tellVersion() {
