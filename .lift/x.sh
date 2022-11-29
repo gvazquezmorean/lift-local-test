@@ -10,7 +10,6 @@ function tellApplicable() {
     printf "true\n" "5do par"
     printf "true\n" "6do par"
     printf "true\n" "7do par"
-    printf "true\n" "8do par"
 }
 
 function tellVersion() {
