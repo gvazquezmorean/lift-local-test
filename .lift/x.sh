@@ -7,7 +7,10 @@ function tellApplicable() {
 }
 
 function tellVersion() {
-    echo "per file v1"
+    echo "per file v1" "10 par"
+    echo "per file v1" "11 par"
+    echo "per file v1" "12 par"
+    echo "per file v1" "13 par"
 }
 
 function run() {
