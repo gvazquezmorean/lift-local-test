@@ -6,6 +6,7 @@ function tellApplicable() {
     printf "true\n" "1 par"
     printf "true\n" "2 par"
     printf "true\n" "3 par"
+    printf "true\n" "4 par"
 }
 
 function tellVersion() {
