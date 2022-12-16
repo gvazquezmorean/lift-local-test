@@ -3,15 +3,13 @@
 set -e
 
 function tellApplicable() {
-    printf "true\n"
+    printf "true\n" "1 par"
+    printf "true\n" "2 par"
+    printf "true\n" "3 par"
 }
 
 function tellVersion() {
-    echo "per file v1" "10 par"
-    echo "per file v1" "11 par"
-    echo "per file v1" "12 par"
-    echo "per file v1" "13 par"
-    echo "per file v1" "14 par"
+    echo "per file v1"
 }
 
 function run() {
