@@ -8,12 +8,6 @@ function tellApplicable() {
     printf "true\n" "3 par"
     printf "true\n" "4 par"
     printf "true\n" "5 par"
-    printf "true\n" "6 par"
-    printf "true\n" "7 par"
-    printf "true\n" "8 par"
-    printf "true\n" "9 par"
-    printf "true\n" "10 par"
-    printf "true\n" "11 par"
 }
 
 function tellVersion() {
