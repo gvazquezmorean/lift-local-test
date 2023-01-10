@@ -11,6 +11,7 @@ function applicable() {
     echo "true"
 }
 
+
 function run() {
     echo "[{ \"type\": \"Hello Amy\", \
             \"message\": \"Lift is analyzing commit\", \
