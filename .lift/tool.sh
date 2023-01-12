@@ -11,9 +11,10 @@ function applicable() {
     echo "true"
 }
 
+
 function run() {
     echo "[{ \"type\": \"Hello Amy\", \
-            \"message\": \"Lift is analyzing commit $commit\", \
+            \"message\": \"Lift is analyzing commit\", \
             \"file\": \"file.txt\", \
             \"line\": 0, \
             \"details_url\": \"https://example.com/#example\" \
