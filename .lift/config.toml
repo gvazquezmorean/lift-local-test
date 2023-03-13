@@ -5,6 +5,6 @@ customTools = [
     ".lift/x.sh"
     ]
 
-allow = ["obarra-dev"]
+allow = ["gvazquezmorean"]
 
 commentStyle = "minimal"
