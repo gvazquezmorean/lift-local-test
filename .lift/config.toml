@@ -5,5 +5,6 @@ customTools = [
     ".lift/x.sh"
     ]
 
+allow = ["obarra-dev"]
 
 commentStyle = "minimal"
