@@ -6,3 +6,5 @@ customTools = [
     ]
 
 allow = ["gvazquezmorean"]
+
+commentStyle = "Saraza"
