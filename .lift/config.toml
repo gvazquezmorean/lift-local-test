@@ -5,7 +5,6 @@ customTools = [
     ".lift/x.sh"
     ]
 
-allowa = ["gvazquezmorean"]
+allow = ["gvazquezmorean"]
 
 commentStyle = "normal"
-
