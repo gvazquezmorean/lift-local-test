@@ -6,4 +6,4 @@ customTools = [
     ]
 
 allow = ["gvazquezmorean"]
-commentStyle = "normal"
+commentStyle = "minimal"
