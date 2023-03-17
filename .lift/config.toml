@@ -5,5 +5,5 @@ customTools = [
     ".lift/x.sh"
     ]
 
-commentStyle = "MINIMAL"
+commentStyle = "minimal"
 
