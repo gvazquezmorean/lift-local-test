@@ -5,5 +5,4 @@ customTools = [
     ".lift/x.sh"
     ]
 
-
 commentaStyle = "minimal"
