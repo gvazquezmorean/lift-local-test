@@ -1,6 +1,6 @@
 customTools = [
     ".lift/tool.sh",
-    ".lift/markdown_tool2.py",
+    ".lift/markdown_tool.py",
     "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file",
     ".lift/x.sh"
     ]
